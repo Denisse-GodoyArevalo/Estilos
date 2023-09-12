@@ -1,0 +1,36 @@
+.bloque1{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    color:white;
+    padding-left: 1px;
+    padding: 5px;
+    margin-bottom: 9px;
+}
+span{
+    color:aqua;
+}
+.bloque2{
+    background-color:rgb(84, 30, 134);
+    color:rgb(248, 248, 248);
+    font-family:sans-serif;
+    text-align:center;
+    font-style: italic;
+    font-size: 90%;
+    padding: 3px;
+    margin-bottom: 9px;
+}
+
+.bloque3{
+    background-color: rgb(170, 208, 225);
+    color:rgb(50, 32, 85);
+    text-decoration: underline;
+    text-align: right;
+    font-size: 90%;
+    padding: 3px;
+    font-weight:lighter;
+    font-family: sans-serif;
+}
+body{
+    margin: 10px;
+}
